@@ -1,0 +1,3 @@
+what is factory design pattern?
+
+Simpler form: at run time, we get an object of a similar type based on the parameter we pass. So, the client will get the appropriate object and consume the object without knowing how the object is created and initialized.
